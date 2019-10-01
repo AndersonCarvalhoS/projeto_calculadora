@@ -1,0 +1,10 @@
+C:\Users\12069\source\repos\Projeto_Caculadora\Projeto_Caculadora\bin\Debug\Projeto_Caculadora.exe.config
+C:\Users\12069\source\repos\Projeto_Caculadora\Projeto_Caculadora\bin\Debug\Projeto_Caculadora.exe
+C:\Users\12069\source\repos\Projeto_Caculadora\Projeto_Caculadora\bin\Debug\Projeto_Caculadora.pdb
+C:\Users\12069\source\repos\Projeto_Caculadora\Projeto_Caculadora\obj\Debug\Projeto_Caculadora.csprojAssemblyReference.cache
+C:\Users\12069\source\repos\Projeto_Caculadora\Projeto_Caculadora\obj\Debug\Projeto_Caculadora.Properties.Resources.resources
+C:\Users\12069\source\repos\Projeto_Caculadora\Projeto_Caculadora\obj\Debug\Projeto_Caculadora.csproj.GenerateResource.cache
+C:\Users\12069\source\repos\Projeto_Caculadora\Projeto_Caculadora\obj\Debug\Projeto_Caculadora.csproj.CoreCompileInputs.cache
+C:\Users\12069\source\repos\Projeto_Caculadora\Projeto_Caculadora\obj\Debug\Projeto_Caculadora.exe
+C:\Users\12069\source\repos\Projeto_Caculadora\Projeto_Caculadora\obj\Debug\Projeto_Caculadora.pdb
+C:\Users\12069\source\repos\Projeto_Caculadora\Projeto_Caculadora\obj\Debug\Projeto_Caculadora.Calculadora.resources
